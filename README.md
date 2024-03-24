@@ -32,7 +32,7 @@ In today's digital age, it's crucial to modernize traditional catalogs for enhan
 
 ## Working Website
 
-Visit the working website at [ondc-project.vercel.app](https://ondc-project.vercel.app).
+Visit the working website at [ondc-project.vercel.app](https://ondc-project.vercel.app)
 
 
 ## Contribution
