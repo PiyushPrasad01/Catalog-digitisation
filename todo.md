@@ -1,1 +1,2 @@
-- fix the image fill things`
+- fix the image of the product to be listed .
+- fill other information of the realted the product to create the catalog.
