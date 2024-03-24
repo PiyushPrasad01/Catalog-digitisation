@@ -20,7 +20,6 @@ In today's digital age, it's crucial to modernize traditional catalogs for enhan
 - JavaScript
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
 ## Getting Started
